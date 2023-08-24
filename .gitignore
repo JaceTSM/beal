@@ -1,0 +1,8 @@
+# ide
+.idea/
+
+# build
+/target
+
+# app generated
+.plot/
